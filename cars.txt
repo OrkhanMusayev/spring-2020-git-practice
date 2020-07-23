@@ -1,6 +1,11 @@
 Toyota
 Honda
 Lexus
+Audi
+GMC
+Tesla
+KIA
+
 Nissan
 Hyundai
 BMW
