@@ -5,7 +5,8 @@ Audi
 GMC
 Tesla
 KIA
-
 Nissan
 Hyundai
 BMW
+Dodge
+Chevrolet 
