@@ -9,4 +9,7 @@ Nissan
 Hyundai
 BMW
 Dodge
-Chevrolet 
+Chevrolet
+Subaru
+Ferrari
+
