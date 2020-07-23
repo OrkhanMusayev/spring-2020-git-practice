@@ -8,3 +8,5 @@ purple
 orange
 ##brown
 @@coral
+gray
+apricot
